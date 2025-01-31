@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Percy Jackson and the Olympians: The Chalice of the Gods",
+        "author": "Rick Riordan",
+        "price": "$26.99",
+        "image": "./img/Percey.jpg"
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "price": "$13.79",
+        "image": "./img/atomic.jpg"
+    },
+    {
+        "title": "It Ends with Us",
+        "author": "Colleen Hoover",
+        "price": "$14.50",
+        "image": "./img/itend.jpg"
+    },
+    {
+        "title": "A Good Girl's Guide to Murder",
+        "author": "Holly Jackson",
+        "price": "$6.59",
+        "image": "./img/goodgirl.jpg"
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "price": "$9.09",
+        "image": "./img/faultin.jpg"
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "price": "$14.77",
+        "image": "./img/davin.jpg"
+    },
+    {
+        "title": "The Trees of Pride",
+        "author": "G K Chesterton",
+        "price": "$41.73",
+        "image": "./img/trees.jpg"
+    },
+    {
+        "title": "The Killing Plains",
+        "author": "Sherry Rankin",
+        "price": "$12.78",
+        "image": "./img/killing.jpg"
+    },
+    {
+        "title": "Recruitment: A Dystopian Novel",
+        "author": "K. A. Riley",
+        "price": "$24.99",
+        "image": "./img/recruit.jpg"
+    },
+    {
+        "title": "Nemesis and the Vault of Lost Time",
+        "author": "PJ Davis",
+        "price": "$19.99",
+        "image": "./img/nemesis.jpg"
+    },
+    {
+        "title":"The Key House (The Noland Kids Adventure Series)",
+        "author": "Mike Curtis",
+        "price": "$22.99",
+        "image": "./img/key.jpg"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "price": "$15.99",
+        "image": "./img/alchemist.jpg"
+    }
+]
